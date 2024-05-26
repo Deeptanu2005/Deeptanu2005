@@ -26,12 +26,14 @@ Check out my projects and let's build something amazing together!
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![Matlab](https://img.shields.io/badge/Matlab-%2300599C.svg?style=flat&logo=mathworks&logoColor=white) 
 ![Tcl](https://img.shields.io/badge/tcl-%23FF0000.svg?style=flat&logo=tcl&logoColor=white) 
 ![Awk](https://img.shields.io/badge/awk-%23000000.svg?style=flat&logo=awk&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-%230080FF.svg?style=flat&logo=xml&logoColor=white)
+
+### Quantum Computing
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C7.svg?style=flat&logo=qiskit&logoColor=white)
+![Cirq](https://img.shields.io/badge/Cirq-%23258FFC.svg?style=flat&logo=quantum&logoColor=white)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
@@ -51,6 +53,8 @@ Check out my projects and let's build something amazing together!
 ### Tools & Technologies
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) 
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) 
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) 
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) 
 ![NS2](https://img.shields.io/badge/NS2-%23F00000.svg?style=flat&logo=network&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 
@@ -90,4 +94,6 @@ Check out my projects and let's build something amazing together!
 ![](https://github-contributor-stats.vercel.app/api?username=Deeptanu2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Deeptanu2005&icon=0&color=0)](https://
+[![](https://visitcount.itsvg.in/api?id=Deeptanu2005&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
