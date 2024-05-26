@@ -14,7 +14,7 @@
 Check out my projects and let's build something amazing together!
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCSJeZcOHAPnCuDKcV6LOghw)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@skilledcoder)
 
 # 💻 Tech Stack:
 ### Programming Languages
