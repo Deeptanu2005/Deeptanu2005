@@ -77,6 +77,10 @@ Check out my projects and let's build something amazing together!
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) 
 ![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-000000.svg?style=flat&logo=davinci-resolve&logoColor=white)
 
+## 🏢 Organizations
+<!-- ORG_SECTION_START -->
+<!-- ORG_SECTION_END -->
+
 # 🎨 Hobbies:
 - Video Editing
 - Graphic Design
@@ -95,11 +99,8 @@ Check out my projects and let's build something amazing together!
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Deeptanu2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🏢 Organizations
-<!-- ORG_SECTION_START -->
-<!-- ORG_SECTION_END -->
 
 ---
-![[](https://visitcount.itsvg.in/api?id=Deeptanu2005&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Deeptanu2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
