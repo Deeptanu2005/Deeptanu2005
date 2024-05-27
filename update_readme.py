@@ -7,7 +7,12 @@ with open('orgs.json', 'r') as file:
 # Build the organization section
 org_section = "## 🏢 Organizations\n"
 for org in orgs:
-    org_section += f'<a href="{org["html_url"]}"><img src="{org["avatar_url"]}" width="50" height="50"> {org["login"]}</a><br/>\n'
+    # Check if the 'html_url' key exists in the organization data
+    if 'html_url' in org:
+        org_section += f'<a href="{org["html_url"]}"><img src="{org["avatar_url"]}" width="50" height="50"> {org["login"]}</a><br/>\n'
+    else:
+        # Handle the case where 'html_url' key is missing
+        org_section += f'<img src="{org["avatar_url"]}" width="50" height="50"> {org["login"]}<br/>\n'
 
 # Read the current README
 with open('README.md', 'r') as file:
