@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 # 💫 About Me:
 👋 Hi there! I'm **Deeptanu Sen**. Welcome to my GitHub profile!
 
