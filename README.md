@@ -78,8 +78,7 @@ Check out my projects and let's build something amazing together!
 ![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-000000.svg?style=flat&logo=davinci-resolve&logoColor=white)
 
 ## 🏢 Organizations
-<!-- ORG_SECTION_START -->
-<!-- ORG_SECTION_END -->
+<a href="https://github.com/Skilled-Coder-India"><img src="https://avatars.githubusercontent.com/u/170893214?s=200&v=4" alt="Skilled-Coder-India" width="50" height="50"> Skilled Coder </a>
 
 # 🎨 Hobbies:
 - Video Editing
