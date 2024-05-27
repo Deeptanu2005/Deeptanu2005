@@ -1,6 +1,7 @@
 ![Header](./github-header-image.png)
 # 💫 About Me:
-👋 Hi there! I'm **Deeptanu Sen**. Welcome to my GitHub profile!
+## Deeptanu Sen
+👋 Hi there! Welcome to my GitHub profile!
 
 🚀 Passionate Computer Science Student | 💻 Open Source Enthusiast | 🌐 Tech Explorer
 
@@ -93,6 +94,10 @@ Check out my projects and let's build something amazing together!
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Deeptanu2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+## 🏢 Organizations
+<!-- ORG_SECTION_START -->
+<!-- ORG_SECTION_END -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Deeptanu2005&icon=0&color=0)](https://visitcount.itsvg.in)
