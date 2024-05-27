@@ -1,6 +1,6 @@
 ![Header](./github-header-image.png)
 # 💫 About Me:
-## Deeptanu Sen
+## Hi there! I'm **Deeptanu Sen**
 👋 Hi there! Welcome to my GitHub profile!
 
 🚀 Passionate Computer Science Student | 💻 Open Source Enthusiast | 🌐 Tech Explorer
