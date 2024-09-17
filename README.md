@@ -5,12 +5,12 @@
 
 🚀 Passionate Computer Science Student | 💻 Open Source Enthusiast | 🌐 Tech Explorer
 
-🎓 2nd Year B.Sc. Computer Science student at Barasat College.<br>
+🎓 3rd Year B.Sc. Computer Science student at Barasat College.<br>
 🌟 I love crafting clean, efficient code and solving complex problems.<br>
 🔭 Currently learning and experimenting with Quantum Computing, Full Stack Web Development, and App Development.<br>
 🌱 Always eager to learn new technologies and improve my skills.<br>
 💬 Ask me about complex programming challenges—I’m here to help!<br>
-👥 Looking to collaborate on exciting projects and open source contributions.<br>
+👥 Looking to collaborate on exciting projects and open-source contributions.<br>
 📫 How to reach me: deeptanusends2005@icloud.com<br>
 
 Check out my projects and let's build something amazing together!
