@@ -11,7 +11,7 @@
 🌱 Always eager to learn new technologies and improve my skills.<br>
 💬 Ask me about complex programming challenges—I’m here to help!<br>
 👥 Looking to collaborate on exciting projects and open-source contributions.<br>
-📫 How to reach me: deeptanusends2005@icloud.com<br>
+📫 How to reach me: deeptanusends2005@gmail.com<br>
 
 Check out my projects and let's build something amazing together!
 
