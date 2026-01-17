@@ -5,7 +5,7 @@
 
 🚀 Passionate Computer Science Student | 💻 Open Source Enthusiast | 🌐 Tech Explorer
 
-🎓 3rd Year B.Sc. Computer Science student at Barasat College.<br>
+🎓 1st Year MCA student at Calcutta University.<br>
 🌟 I love crafting clean, efficient code and solving complex problems.<br>
 🔭 Currently learning and experimenting with Quantum Computing, Full Stack Web Development, and App Development.<br>
 🌱 Always eager to learn new technologies and improve my skills.<br>
