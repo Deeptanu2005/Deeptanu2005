@@ -91,29 +91,9 @@ Check out my projects and let's build something amazing together!
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) 
 ![Davinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-000000.svg?style=flat&logo=davinci-resolve&logoColor=white)
 
-## 🏢 Organizations
-<a href="https://github.com/Skilled-Coder-India"><img src="https://avatars.githubusercontent.com/u/170893214?s=200&v=4" alt="Skilled-Coder-India" width="50" height="50"></a>
-
 # 🎨 Hobbies:
-- Video Editing
-- Graphic Design
+- Video Editing & Graphic Design
+- 3D Animation
 - Playing Tabla
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deeptanu2005&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deeptanu2005&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deeptanu2005&theme=radical&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Deeptanu2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Deeptanu2005&label=Profile%20Views&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
